@@ -9,7 +9,7 @@ import Image from 'next/image';
             <div className="flex space-x-6">
                <Image src="/images/ENG.png" alt="image3" width={30} height={30}/>
                <Image src="/images/Faqs.png" alt="image2" width={30} height={50}/>
-               <Image src="/images/need.png" alt="image1" width={50} height={20}/>
+               <Image src="/images/help.png" alt="image1" width={50} height={20}/>
             </div>
  </div>
  </div>
