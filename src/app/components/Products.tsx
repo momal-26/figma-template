@@ -43,7 +43,7 @@ const Product=()=>{
             </div>
            <div>
            <div className=" w-[200px] h-[200px] ">
-                <Image src={"/images/image.png"} alt="product" width={200} height={100}></Image>
+                <Image src={"/images/Image.png"} alt="product" width={200} height={100}></Image>
            </div>
               {/*image title*/}
                <div className="flex flex-col">
