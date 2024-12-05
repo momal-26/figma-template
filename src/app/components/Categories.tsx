@@ -15,18 +15,18 @@ return(
         <div className="flex sm:flex-col md:flex-row justify-between mt-9">
             <div>
                 <div>
-                <Image src={"/images/category.png"} alt="product" width={300} height={200}></Image>
+                <Image src={"/images/Category.png"} alt="product" width={300} height={200}></Image>
                 </div>
             </div>
                 <div>
                     <div >
-                     <Image src={"/images/category1.png"} alt="product" width={300} height={200}></Image>
+                     <Image src={"/images/Category1.png"} alt="product" width={300} height={200}></Image>
                       </div>
                         
                  </div>
                       <div>
                            <div>
-                            <Image src={"/images/category2.png"} alt="product" width={300} height={200}></Image>
+                            <Image src={"/images/Category2.png"} alt="product" width={300} height={200}></Image>
                             </div>
            
                         </div>
