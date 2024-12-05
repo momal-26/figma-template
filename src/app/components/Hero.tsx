@@ -24,7 +24,7 @@ return (
          </div>
     </div>
           <div className='sm:mr-6'>
-            <Image src={"/images/feature.png"}  width={1200} height={300} alt='fe'>
+            <Image src={"/images/Feature.png"}  width={1200} height={300} alt='fe'>
                 </Image>
            </div>
 </div>
